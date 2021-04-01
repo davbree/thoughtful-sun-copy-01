@@ -457,7 +457,7 @@ models:
     label: Hero section
     labelField: title
     fields:
-    - type: string
+      - type: string
         name: title
         label: Title
         description: The title of the section
