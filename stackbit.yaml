@@ -462,6 +462,10 @@ models:
         label: Title
         description: The title of the section
       - type: string
+        name: title
+        label: Title
+        description: The title of the section
+      - type: string
         name: subtitle
         label: Subtitle
         description: The subtitle of the section displayed below the title
